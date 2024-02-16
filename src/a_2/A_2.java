@@ -7,7 +7,7 @@ package a_2;
 /**
  *
  * @author amrinder
- * date:16/02/2024
+ * date:16/02/2023
  */
 public class A_2 {
 
